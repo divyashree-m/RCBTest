@@ -3,7 +3,7 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="com.org.testvagrant.RCBTest.AppTest"/>
+      <class name="tests.RcbTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

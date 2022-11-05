@@ -1,4 +1,4 @@
-package com.org.testvagrant.RCBTest;
+package tests;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
